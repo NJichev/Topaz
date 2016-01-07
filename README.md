@@ -1,2 +1,2 @@
 # Topaz
-Topaz is a Ruby alternative
+Topaz is a Ruby alternative.
